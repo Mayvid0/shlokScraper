@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "projectManager.git.baseFolders": ["$home/coding"]
+}
